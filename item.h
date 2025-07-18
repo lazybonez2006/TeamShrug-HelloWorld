@@ -2,9 +2,9 @@
 #include <iostream>
 class item
 {
-std::string task="";
+	std::string task = "";
 	int idnum;
 public:
-	
+
 };
 
