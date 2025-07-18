@@ -15,5 +15,6 @@ class Frame : public wxFrame
 public:
 	
 	Frame(const wxString& title);
+	void DeleteButton(wxCommandEvent& event);
 };
 
